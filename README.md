@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A curious fullstack developer from Rio</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorllr" alt="vitorllr" /></a> </p>
-
 - 🔭 I’m currently working on [Where my pet at](https://where-my-pet-at.herokuapp.com/)
 
 - 📫 How to reach me **vitorlopeslrocha@gmail.com**
