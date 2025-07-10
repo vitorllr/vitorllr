@@ -30,7 +30,8 @@ Here are some minimal, self-contained repos where I explore and test key concept
 
 | Stack       | Project Name | Description |
 |-------------|--------------|-------------|
-| 🔴 Angular | [angular-jwt-auth](https://github.com/vitorllr/angular-jwt-auth) | Auth with JWT, interceptors & guards |
+|   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+ | [angular-jwt-auth](https://github.com/vitorllr/angular-jwt-auth) | Auth with JWT, interceptors & guards |
 
 > All repositories include code, usage instructions and a clear README.
 
