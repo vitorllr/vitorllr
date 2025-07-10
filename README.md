@@ -24,6 +24,16 @@ At Quality Software, I actively contributed to several enterprise systems using 
 
 ---
 
+### 🧪 Playground Projects
+
+Here are some minimal, self-contained repos where I explore and test key concepts:
+
+| Stack       | Project Name | Description |
+|-------------|--------------|-------------|
+| 🔴 Angular | [angular-jwt-auth](https://github.com/vitorllr/angular-jwt-auth) | Auth with JWT, interceptors & guards |
+
+> All repositories include code, usage instructions and a clear README.
+
 ### 📫 Reach Me
 
 - 📧 **vitorlopeslrocha@gmail.com**  
