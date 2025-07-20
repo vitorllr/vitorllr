@@ -59,6 +59,5 @@ Here are some minimal, self-contained repos where I explore and test key concept
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorllr&layout=compact&langs_count=8&theme=github_dark)
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorllr&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorllr&layout=compact&langs_count=8)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorllr&show_icons=true)
