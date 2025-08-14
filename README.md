@@ -26,7 +26,7 @@ At Quality Software, I actively contributed to several enterprise systems using 
 
 ### 🧪 Sandboxes
 
-- **[Spring Boot Playground](https://github.com/vitorllr/springboot-playground/tree/main/01%20-%20Login%20with%20JWT)** — A sandbox for experimenting with Java backend development using Spring Boot.  
+- **[Spring Boot Playground](https://github.com/vitorllr/springboot-playground)** — A sandbox for experimenting with Java backend development using Spring Boot.  
   Features include RESTful API design, JPA/Hibernate persistence, and JWT-based authentication.  
   Detailed information for each project can be found in its respective README.  
 
