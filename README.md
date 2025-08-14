@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Rocha</h1>
-<h3 align="center">A curious fullstack developer from Rio de Janeiro 🇧🇷</h3>
+<h3 align="center">A fullstack developer from Rio de Janeiro 🇧🇷</h3>
 
 ---
 
