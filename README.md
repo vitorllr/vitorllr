@@ -16,13 +16,20 @@
 
 At Quality Software, I actively contributed to several enterprise systems using Angular and Java. Some key projects:
 
-- 🚗 **Fastback-Project** — vehicle auction management system  
+- 🚗 **Fastback-Project** — system for managing the extrajudicial recovery of vehicles  
 - 💊 **Eurofarma-Project** — pharmaceutical workflow automation  
 - 📁 Internal portals with audit logging, file uploads, JWT auth, ngx-translate, and modular design  
 
 > Most repositories are private, but my commits and PRs are part of the `quality-digital` organization.
 
 ---
+
+### 🧪 Sandboxes
+
+- **[Spring Boot Playground](https://github.com/vitorllr/springboot-playground/tree/main/01%20-%20Login%20with%20JWT)** — A sandbox for experimenting with Java backend development using Spring Boot.  
+  Features include RESTful API design, JPA/Hibernate persistence, and JWT-based authentication.  
+  Detailed information for each project can be found in its respective README.  
+
 
 ### 📫 Reach Me
 
