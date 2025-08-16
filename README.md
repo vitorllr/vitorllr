@@ -28,11 +28,10 @@ At Quality Software, I actively contributed to several enterprise systems using 
 
 Well-structured repositories designed to explore, test, and demonstrate core technical concepts:
 
-| Stack        | Repository | Description |
-|--------------|------------|-------------|
-|   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
- | [**springboot-playground**](https://github.com/vitorllr/springboot-playground) | Experiments with REST APIs, JWT authentication, JPA, and tests |
-|  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />    | [**angular-playground**](https://github.com/vitorllr/angular-playground) | Practical examples with reactive forms, pipes, interceptors, ngx-translate, and JWT |
+| Stack | Repository | Description |
+|-------|------------|-------------|
+| <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> | [**springboot-playground**](https://github.com/vitorllr/springboot-playground) | Experiments with REST APIs, JWT authentication, JPA, and tests |
+| <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> | [**angular-playground**](https://github.com/vitorllr/angular-playground) | Practical examples with reactive forms, pipes, interceptors, ngx-translate, and JWT |
 
 > Each project includes a README with clear instructions, simple examples, and best practices.
 
