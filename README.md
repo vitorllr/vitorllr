@@ -26,10 +26,14 @@ At Quality Software, I actively contributed to several enterprise systems using 
 
 ### 🧪 Sandboxes
 
-- **[Spring Boot Playground](https://github.com/vitorllr/springboot-playground)** — A sandbox for experimenting with Java backend development using Spring Boot.  
-  Features include RESTful API design, JPA/Hibernate persistence, and JWT-based authentication.  
-  Detailed information for each project can be found in its respective README.  
+Well-structured repositories designed to explore, test, and demonstrate core technical concepts:
 
+| Stack        | Repository | Description |
+|--------------|------------|-------------|
+| ☕ Spring Boot | [**springboot-playground**](https://github.com/vitorllr/springboot-playground) | Experiments with REST APIs, JWT authentication, JPA, and tests |
+| 🔴 Angular    | [**angular-playground**](https://github.com/vitorllr/angular-playground) | Practical examples with reactive forms, pipes, interceptors, ngx-translate, and JWT |
+
+> Each project includes a README with clear instructions, simple examples, and best practices.
 
 ### 📫 Reach Me
 
